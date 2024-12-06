@@ -31,6 +31,7 @@ odyssee.merveille@gmail.com
 
 #include <stdint.h>
 #include <iostream>
+#include <optional>
 #include <string>
 #include <vector>
 #include <sys/stat.h>
